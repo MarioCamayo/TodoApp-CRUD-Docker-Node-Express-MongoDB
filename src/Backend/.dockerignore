@@ -1,0 +1,21 @@
+# Ignorar la carpeta node_modules, se instalará dentro del contenedor
+node_modules
+
+# Archivos de entorno reales, sensibles
+.env
+
+# Archivos de log
+*.log
+
+# Carpetas de configuración local
+.vscode
+.idea
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros archivos que no necesitas dentro del contenedor
+npm-debug.log
+yarn-debug.log
+yarn-error.log
