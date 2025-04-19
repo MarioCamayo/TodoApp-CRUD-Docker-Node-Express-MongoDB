@@ -1,3 +1,6 @@
+# Mi App Backend
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-mi--app--backend-blue?logo=docker)](https://hub.docker.com/r/programadorfullstack/mi-app-backend)
+
 # 📝 TodoApp - CRUD con Node.js, MongoDB y Docker
 
 Esta es una aplicación básica de tareas (TodoApp) que permite crear, leer, actualizar y eliminar tareas usando una API construida con Node.js y MongoDB, todo gestionado mediante Docker.
@@ -104,6 +107,11 @@ docker exec -it NOMBRE_CONTENEDOR_MONGO mongosh
 ```
 
 ---
+
+## 🔗 Recursos adicionales
+
+- 📦 [Guía para usar esta app desde Docker Hub](DOCKERHUB.md)
+
 
 ## 👨‍💼 Autor
 
